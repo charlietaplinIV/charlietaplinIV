@@ -8,7 +8,7 @@
 
 <ul>
   <li><b>Home Lab Setup</b><br>
-    <a href="https://github.com/yourusername/home-lab-setup">Windows Server, AD, DNS, DHCP Lab</a>
+    <a href="https://github.com/charlietaplinIV/home-lab-setup">Windows Server, AD, DNS, DHCP Lab</a>
   </li>
   <li><b>Help Desk Ticketing System</b><br>
     <a href="https://github.com/yourusername/helpdesk-ticketing-system">Simulated support workflow with osTicket</a>
