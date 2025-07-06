@@ -13,20 +13,11 @@
   <li><b>Help Desk Ticketing System</b><br>
     <a href="https://github.com/charlietaplinIV/-osticket-helpdesk">Simulated support workflow with osTicket</a>
   </li>
-  <li><b>PC Build & Troubleshooting</b><br>
-    <a href="https://github.com/yourusername/pc-build-troubleshooting">Hardware build and diagnostic guide</a>
-  </li>
   <li><b>Network Setup & Monitoring</b><br>
     <a href="https://github.com/yourusername/network-setup-monitoring">Small network with Wireshark analysis</a>
   </li>
   <li><b>IT Documentation</b><br>
     <a href="https://github.com/yourusername/it-documentation">User guides for common IT fixes</a>
-  </li>
-  <li><b>Remote Support Simulation</b><br>
-    <a href="https://github.com/yourusername/remote-support-sim">Remote troubleshooting practice</a>
-  </li>
-  <li><b>Website Hosting & Maintenance</b><br>
-    <a href="https://github.com/yourusername/website-hosting-maintenance">Portfolio site with DNS + SSL setup</a>
   </li>
 </ul>
 
