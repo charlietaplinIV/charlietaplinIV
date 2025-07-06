@@ -14,10 +14,10 @@
     <a href="https://github.com/charlietaplinIV/-osticket-helpdesk">Simulated support workflow with osTicket</a>
   </li>
   <li><b>Network Setup & Monitoring</b><br>
-    <a href="https://github.com/yourusername/network-setup-monitoring">Small network with Wireshark analysis</a>
+    <a href="https://github.com/charlietaplinIV/network-setup-monitoring">Small network with Wireshark analysis</a>
   </li>
   <li><b>IT Documentation</b><br>
-    <a href="https://github.com/yourusername/it-documentation">User guides for common IT fixes</a>
+    <a href="https://github.com/charlietaplinIV/it-user-guides">User guides for common IT fixes</a>
   </li>
 </ul>
 
