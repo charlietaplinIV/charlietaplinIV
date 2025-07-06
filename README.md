@@ -1,4 +1,4 @@
-<h1>Hi, I'm Charlie—a Passionate IT Specialist in Training 💻</h1>
+<h1>Hi, I'm Charlie Taplin—a Passionate IT Specialist 💻</h1>
 
 <p>I’m actively pursuing a career in IT support and systems administration, combining technical skills with a detail-oriented, user-focused approach. This portfolio highlights the hands-on projects I’ve completed to demonstrate my readiness for real-world IT environment!</p>
 
