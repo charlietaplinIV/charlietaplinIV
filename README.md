@@ -42,6 +42,19 @@
 
 ---
 
+<h2>🧠 Technical Proficiencies </h2>
+
+- 🖥️ **Windows Server Administration** — Domain setup, DHCP/DNS roles, user policies
+- 🛠️ **Hardware & Software Troubleshooting** — PC builds, OS installation, diagnostic workflows
+- 🌐 **Network Configuration & Peripherals** — DNS, DHCP, LAN setup, printer/scanner deployment
+- 📶 **Wi-Fi Configuration** — Adapter resets, SSID diagnostics, IP/DNS resolution
+- 💻 **Web Programming Concepts** — HTML, CSS, JavaScript basics for frontend understanding
+- 🌐 **Server-Side Programming** — PHP/IIS with MySQL integration in live environments
+- 🔧 **PC/Laptop Repair & Upgrades** — RAM swaps, SSD installs, thermal management
+- 🔒 **Active Directory (User/Group Management)** — Account lifecycle, group policy management
+- 🖼️ **Web Development & Design** — User-friendly layout, branding, documentation clarity
+
+
 <h2>🌐 Connect with Me:</h2>
 
 <p>
